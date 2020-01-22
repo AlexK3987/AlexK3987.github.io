@@ -5,7 +5,7 @@ function setup() {
 }
 
 function draw() {
-  background(225);
+  background(0);
   textSize(50);
   fill(180);
   //text(hour(), 10, 30);
